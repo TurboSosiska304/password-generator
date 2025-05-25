@@ -26,8 +26,6 @@ cd password-generator
 Install dependencies (if any):
 
 bash
-Копировать
-Редактировать
 pip install -r requirements.txt
 Tkinter is used and usually comes pre-installed with Python.
 
@@ -35,8 +33,6 @@ Usage
 Run the main program:
 
 bash
-Копировать
-Редактировать
 python main.py
 Enter a master password (optional, for generating passwords based on it)
 
