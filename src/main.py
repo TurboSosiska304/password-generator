@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox, ttk
 
-from generator import generate_password, generate_password_from_master
+from src.generator import generate_password, generate_password_from_master
 from format import export_passwords
 
 languages = {
